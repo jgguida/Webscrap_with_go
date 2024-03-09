@@ -1,5 +1,6 @@
-🚀 Criando Meu Primeiro Web Scraper em Go
-Olá, exploradores do código! Hoje, vou compartilhar com vocês a minha aventura criando um web scraper simples em Go. Estou ainda aprendendo sobre essa linguagem fascinante, então vamos embarcar nessa jornada juntos. Nosso objetivo? Extrair informações sobre notebooks Dell G15 da Amazon - queremos seus nomes e preços. 🤖💻
+#🚀 Criando Meu Primeiro Web Scraper em Go
+
+Hoje, vou compartilhar com vocês a minha aventura criando um web scraper simples em Go. Estou ainda aprendendo sobre essa linguagem. Nosso objetivo? Extrair informações sobre notebooks Dell G15 da Amazon - queremos seus nomes e preços, já que estou precisando trocar meu notebook é uma boa poder ter uma lista de possíveis compras 🤖💻
 
 🛠 Passo 1: Configurando o Ambiente
 Antes de mais nada, precisamos ter Go instalado. A instalação é tranquila - basta seguir as instruções no site oficial do Go. Depois de pronto, estamos a um passo de começar nossa aventura.
@@ -45,6 +46,7 @@ Erros: Eles são parte do processo. O tratamento de erros é essencial.
 Sempre Há Espaço para Melhorias: Já estou pensando em expandir e otimizar.
 
 🎉 Conclusão
-Foi um desafio interessante e uma ótima maneira de aprender. 🌟
-
+Foi um desafio interessante para prender. 🌟
 Experimente com o código, explore novos seletores, e talvez tente fazer o mesmo processo em diferentes sites. Lembre-se de respeitar as políticas dos sites🎈
+O código atual ainda irá sofrer alterações para buscar um dos itens específicos da lista(o notebook que for escolhido, inclusive aceito dicas), e depois ele servirá para monitorar os preços e me enviar onde está mais baixo. Ou seja ainda vamos adicionar mais complexidade. 
+Obrigado para quem leu até aqui...
