@@ -13,7 +13,7 @@ Nossa ferramenta para o scraping será a biblioteca Colly, amigável para novato
 
 
 📝 Passo 3: Escrevendo o Código
-Agora, sim, a parte emocionante! Criamos um arquivo chamado main.go e começamos com o básico:
+Agora, sim. Criamos um arquivo chamado scraper.go e começamos com o básico:
 
 ![alt text](image-1.png)
 
