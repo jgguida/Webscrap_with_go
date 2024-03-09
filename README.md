@@ -7,9 +7,10 @@ Antes de mais nada, precisamos ter Go instalado. A instalação é tranquila - b
 
 🕵️‍♂️ Passo 2: Explorando a Biblioteca Colly
 Nossa ferramenta para o scraping será a biblioteca Colly, amigável para novatos como nós. Primeiro, vamos instalá-la:
+
+
 ![alt text](image.png)
 
-go get github.com/gocolly/colly
 
 📝 Passo 3: Escrevendo o Código
 Agora, sim, a parte emocionante! Criamos um arquivo chamado main.go e começamos com o básico:
@@ -19,6 +20,7 @@ Agora, sim, a parte emocionante! Criamos um arquivo chamado main.go e começamos
 👉 Nota: Usamos um UserAgent para simular um navegador real, ajudando a evitar bloqueios.
 
 🎣 Capturando os Dados
+
 A magia acontece aqui, onde capturamos o nome e o preço dos produtos:
 
 ![alt text](image-2.png)
